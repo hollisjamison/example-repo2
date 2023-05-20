@@ -3,5 +3,5 @@ const func = () => {
 }
 
 const function2 = () => {
-    console.log("hello2"
+    console.log("hello2")
 }
